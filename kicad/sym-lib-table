@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "XL7105-SY-B") (type "Legacy") (uri "${KIPRJMOD}/XL7105-SY-B.lib") (options "") (descr ""))
+)
