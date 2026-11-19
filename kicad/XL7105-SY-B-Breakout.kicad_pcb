@@ -24,7 +24,7 @@
 		(29 "B.CrtYd" user "B.Courtyard")
 	)
 	(setup
-		(pad_to_mask_clearance 0.0508)
+		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
@@ -41,8 +41,8 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_00000000_020000af)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_020000af)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
